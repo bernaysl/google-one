@@ -1,0 +1,38 @@
+*{
+    list-style: none;
+}
+section{
+    text-align: center;
+    display:flex;
+    justify-content: center;
+}
+.search{
+    background-color: rgb(235, 230, 230);
+    width: 902px;
+}
+.search input{
+    width: 300px;;
+}
+#kutu1{
+    background-color: rgb(127, 241, 220) ;
+    width: 350px;
+    margin:1px;
+    height: 90px;
+}
+#kutu2{
+    background-color: rgb(108, 199, 182) ;
+    margin:1px;
+    width: 200px;
+    height: 90px;
+    text-align: left;
+}
+#kutu3{
+    background-color: rgb(86, 163, 148) ;
+    margin:1px;
+    width: 350px;
+    height: 90px;
+}
+footer{
+    margin-top: 10px;
+    text-align: center;
+}
